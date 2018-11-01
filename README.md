@@ -14,6 +14,10 @@
         else
                 { Y = Y + B;}
 
+
+**Screnshoot**
+![Screnshoot](https://raw.githubusercontent.com/bungsuciptowijaya/Tugas-UTS/master/Screnshoot1.png)
+
 **code program lengkap**
 '''c++
 #include <iostream>
@@ -56,6 +60,8 @@ int main()
     }
     cout << T;
 
+**Screnshoot**
+![Screnshoot](https://raw.githubusercontent.com/bungsuciptowijaya/Tugas-UTS/master/Screnshoot2.png)
 
 **code program lengkap**
 '''c++
